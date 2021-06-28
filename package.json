@@ -1,19 +1,18 @@
 {
-    "name": "league",
-    "version": "0.1.0",
-    "private": true,
-  
-    "dependencies": {
-      "core-js": "^3.6.5"
-    },
-    
-    "engines": {
-      "node": "14.16.1"
-    },
-    
-    "browserslist": [
-      "> 1%",
-      "last 2 versions",
-      "not dead"
-    ]
+  "name": "league",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.16.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
 }
