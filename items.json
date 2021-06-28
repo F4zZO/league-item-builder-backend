@@ -1,0 +1,202 @@
+{
+
+    "items": {
+    "mythic": [{
+        
+            "id": 1,
+            "name": "Goredrinker",
+            "ad": 45,
+            "cd": 20,
+            "hp": 400,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Goredrinker_item_HD.png"
+        },
+
+       {
+            "id": 2,
+            "name": "Kraken Slayer",
+            "ad": 65,
+            "as": 25,
+            "crit": 20,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Kraken_Slayer_item_HD.png"
+        },
+
+       {
+            "id": 3,
+            "name": "Liandry's Anguish",
+            "ad": 80,
+            "cd": 20,
+            "mana": 600,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/Liandry%27s_Anguish_item_HD.png"
+        },
+
+        {
+            "id": 4,
+            "name": "Night Harvester",
+            "ap": 90,
+            "cd": 15,
+            "hp": 300,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Night_Harvester_item_HD.png"
+        
+    }],
+
+    "legendary": [{
+        
+            "id": 1,
+            "name": "Sterak's Gage",
+            "ad": 50,
+            "hp": 400,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Sterak%27s_Gage_item_HD.png"
+        },
+
+       {
+            "id": 2,
+            "name": "Dead Man's Plate",
+            "hp": 300,
+            "ar": 40,
+            "ms": 5,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Dead_Man%27s_Plate_item_HD.png"
+        },
+
+        {
+            "id": 3,
+            "name": "Black Cleaver",
+            "ad": 40,
+            "cd": 25,
+            "hp": 450,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Black_Cleaver_item_HD.png"
+
+        },
+
+        {
+            "id": 4,
+            "name": "Death's Dance",
+            "ad": 55,
+            "cd": 15,
+            "ar": 45,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Death%27s_Dance_item_HD.png"
+
+        },
+
+        {
+            "id": 5,
+            "name": "Runaan's Hurricane",
+            "as": 45,
+            "crit": 20,
+            "ms" : 7,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/f/ff/Runaan%27s_Hurricane_item_HD.png"
+        },
+
+        {
+            "id": 6,
+            "name": "Infinity Edge",
+            "ad": 70,
+            "crit" : 20,
+            "icon": "https://assets.website-files.com/5faeaa8f8a5176b9596a408d/5fb3e8ed3f882b519bbd8612_3031_Marksman_T3_InfinityEdge.png"
+
+        },
+
+        {
+            "id": 7,
+            "name": "The Collector",
+            "ad": 55,
+            "crit": 20,
+            "pen": 12,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/The_Collector_item_HD.png"
+            
+        },
+
+        {
+            "id": 8,
+            "name": "Bloodthirster",
+            "ad": 55,
+            "ls": 20,
+            "crit": 20,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b9/Bloodthirster_item_HD.png"
+        },
+
+        {
+            "id": 9,
+            "name": "Rabadon's Deathcap",
+            "ap": 120,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Rabadon%27s_Deathcap_item_HD.png"
+            
+        },
+
+        {
+            "id": 10,
+            "name": "Lich Bane",
+            "ap": 75,
+            "ms": 8,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Lich_Bane_item_HD.png"
+        },
+
+       {
+            "id": 11,
+            "name": "Void Staff",
+            "ap": 70,
+            "pen": 40,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Void_Staff_item_HD.png"
+        },
+
+        {
+            "id": 12,
+            "name": "Demonic Embrace",
+            "ap": 70,
+            "hp": 350,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Demonic_Embrace_item_HD.png"
+        },
+
+        {
+            "id": 13,
+            "name": "Cosmic Drive",
+            "ap": 80,
+            "cd": 20,
+            "hp": 200,
+            "icon": "https://assets.website-files.com/5faeaa8f8a5176b9596a408d/5fb2efe001ea69557222b4dd_4629_Mage_T3_CosmicDrive.png"
+        },
+
+       {
+            "id": 14,
+            "name": "Zhonia's Hourglass",
+            "ap": 65,
+            "cd": 15,
+            "ar": 45,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Zhonya%27s_Hourglass_item_HD.png"
+        
+    }],
+
+    "boots": [{
+        
+            "name": "Berserker Grieves",
+            "id": 18,
+            "as": 35.0,
+            "ms": 45,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Berserker%27s_Greaves_item_HD.png"
+        },
+
+        {
+            "name": "Plated Steelcaps",
+            "id": 19,
+            "ar": 20,
+            "ms": 45,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Plated_Steelcaps_item_HD.png"
+        },
+
+        {
+            "name": "Sorcerer's Shoes",
+            "id": 20,
+            "pen": 18,
+            "ms": 45,
+            "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Sorcerer%27s_Shoes_item_HD.png"
+        },
+
+         {
+            "name": "Boots of Lucidity",
+            "id": 21,
+            "cd": 20,
+            "ms": 45,
+            "icon": "https://pbs.twimg.com/media/Er0PLuLVkAAphEL.png"
+        
+
+    }]}
+}

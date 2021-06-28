@@ -2,6 +2,10 @@
   "name": "league",
   "version": "0.1.0",
   "private": true,
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js"
+  },
   "dependencies": {
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
